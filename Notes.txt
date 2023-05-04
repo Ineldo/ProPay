@@ -1,0 +1,9 @@
+for transaction model:
+-userID_To
+-userID_from
+-account_to
+-account_from
+-amount
+-description
+-status(success/not)
+-date
